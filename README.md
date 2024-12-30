@@ -94,10 +94,8 @@ An efficient and user-friendly **Automated Email Sender** built using **Python**
 
 ```
 Automated-Email-Sender/
-|— main.py           # Entry point of the application
-|— config.py         # Configuration file for email credentials
-|— email_sender.py   # Core logic for sending emails
-|— logs/             # Directory to store email logs
+|— bulk_email_sender.py
+|— recipition.csv
 |— README.md         # Project documentation
 |— requirements.txt  # Dependencies
 ```
